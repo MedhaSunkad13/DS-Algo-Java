@@ -209,14 +209,14 @@ public class QueueB {
 
         //JCF (ArrayDeque)
         // Queue<Integer> q = new LinkedList<Integer>();
-        Queue1 q = new Queue1();
-        q.add(1);
-        q.add(2);
-        q.add(3);
+        // Queue1 q = new Queue1();
+        // q.add(1);
+        // q.add(2);
+        // q.add(3);
 
-        while (!q.isEmpty()) {
-            System.out.println(q.peek()); // Prints the front element
-            q.remove(); // Removes the front element
-        }
+        // while (!q.isEmpty()) {
+        //     System.out.println(q.peek()); // Prints the front element
+        //     q.remove(); // Removes the front element
+        // }
    }
 }
