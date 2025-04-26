@@ -69,7 +69,6 @@ public class Assignment {
         return result.toString();
     }
 
-
     public static void main(String[] args) {
         Assignment list = new Assignment();
         list.head = list.new Node('A');
